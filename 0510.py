@@ -1,5 +1,7 @@
+import math
+
 print("это калькулятор")
-print("Введите число...........")
+print("Введите числа...........")
 print()
 
 result = None
